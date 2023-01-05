@@ -18,7 +18,7 @@ git clone https://github.com/BlgnrSoftDev/File_Content_Filter.git
 **2-) İndirdiğiniz dosyanın dizinine gelin ve aşağıdaki komutu çalıştırın**
 
 ```
-bash linux_shell_script.sh
+bash linux_shell_project.sh
 ```
 bu iki adımı izleyip basitçe çalıştırabilirsiniz.
 
