@@ -5,7 +5,7 @@ BLM0365 Linux ve Kabuk Programlama Dersi Final Projesi.
 Bu proje linuxta sık sık kullanılan head ve tail komutlarını kullanarak ve en yaygın iki gui programından biri olan **Whiptail**
 ile kullanıcıdan alınan dosyanın kullanıcının isteğine göre belirli başlangıç ve bitiş satırı arasında filtreleyip ekrana çıktısını yazar.
 
-## Nasıl İndirilir ?
+## Nasıl İndirilir/ Çalıştırılır ?
 
 Eğer dosyanın kodlarını kendi bilgisayarınızda incelemek ve çalıştırmak isterseniz sırasıyla bu adımları takip edin
 
